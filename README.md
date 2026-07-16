@@ -31,9 +31,6 @@ CommentFlow is a modern Instagram automation platform that helps creators, busin
 
 https://instagram-comment-dm-automation.vercel.app
 
-### Backend Health
-
-https://delightful-sparkle-production-7092.up.railway.app/health
 
 ---
 
